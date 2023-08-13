@@ -355,6 +355,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
+<a href="https://docs.google.com/presentation/d/1M9Feurk2rQfLSDfhSBZl2f4fJOGcWjahHQ2F-MWdT7w/edit?usp=sharing">[Presentation] Intro to Pandas</a>
+<p>
+<br>
+<br>
+<p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
 <p>
 <br>
