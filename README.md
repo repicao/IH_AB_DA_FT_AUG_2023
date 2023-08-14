@@ -369,13 +369,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_1</a>
+<a href="https://github.com/data-bootcamp-v4/lab-dw-data-cleaning-and-formatting">[Lab] EDA_Round_1</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1zTSSzzuxgr_yvj696ieVhl7HgZ2pnepulBdeYa2nLwQ/edit?usp=sharing">[Presentation] Basic Statistical Concepts</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_AUG_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
+<a href="https://github.com/data-bootcamp-v4/lab-dw-data-structuring-and-combining">[Lab] EDA_Round_2</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1FLmgMD_IGWTqscK4itzUi9Qe8B6GHL8tBv3QBeHEpq0/edit?usp=sharing">[Presentation] Correlation of Numerical Features</a>
 <p>
