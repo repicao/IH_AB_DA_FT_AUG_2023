@@ -371,7 +371,12 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/data-bootcamp-v4/lab-dw-data-cleaning-and-formatting">[Lab] EDA_Round_1</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1zTSSzzuxgr_yvj696ieVhl7HgZ2pnepulBdeYa2nLwQ/edit?usp=sharing">[Presentation] Basic Statistical Concepts</a>
+   <td><p>
+<a href="https://docs.google.com/presentation/d/1AuMxc8qBaTQwLv-b6_xFk-0kclhznaNf_ayS7uEgdC4/edit?usp=sharing">[Presentation] Data Analysis Intro</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1IHtD509p-WdOiUUq8HsVA8ogC3s-Bo9SYw4kbSjEUMA/edit?usp=sharing">[Presentation] Data Analysis Process</a>
+<p>
+     <a href="https://docs.google.com/presentation/d/1zTSSzzuxgr_yvj696ieVhl7HgZ2pnepulBdeYa2nLwQ/edit?usp=sharing">[Presentation] Basic Statistical Concepts</a>
 <p>
 <br>
 <p>
