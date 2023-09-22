@@ -19,7 +19,7 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 ### Rules
 - Team of two people are recommended and is the maximum number allowed per team. An exception might be applied after the approval from the teaching team.
-- Every team has 6 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
+- Every team has 7 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
 - You should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of questions that need clarification.
 --- 
 
